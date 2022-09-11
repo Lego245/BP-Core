@@ -1,7 +1,6 @@
 {
  "replace": false,
  "values": [
-        "beyond_planets_core:copper_block_raw_wall",
         "beyond_planets_core:gold_block_raw_wall",
         "beyond_planets_core:iron_block_raw_wall",
         "beyond_planets_core:tin_block_raw_wall",
