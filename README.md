@@ -1,6 +1,6 @@
 <a href="https://discord.gg/2fNcNGjZt8">
   <p align="center">
-      <img src="https://img.shields.io/discord/698598471896268931?    color=blue&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord" width="191"/> 
+      <img src="https://img.shields.io/discord/973473352561852416?    color=blue&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord" width="191"/> 
   </p>
 </a>
 
