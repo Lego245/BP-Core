@@ -1,21 +1,23 @@
-# *Welcome to Beyond Planets Core's Git* #
+<a href="https://discord.gg/2fNcNGjZt8">
+  <p align="center">
+      <img src="https://img.shields.io/discord/698598471896268931?    color=blue&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord" width="191"/> 
+  </p>
+</a>
 
-Curseforge version: [here](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-core)
+# *Planeteer - Core* 
 
-Discord: [here](https://discord.gg/tWfYRpKNKW)
+This is a mod for Minecraft that is the core mod within the Planeteer family for [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth).
 
-# Our other Mods: #
+# Links
 
-* [Beyond Planets - Machine](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-machines)
+[Curseforge Version](https://www.curseforge.com/minecraft/mc-mods/planeteer-core)
 
-* [Beyond Planets - Dimensions](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-dimensions)
-
+Other Mods:
+  - [Planeteer - Dimensions](https://www.curseforge.com/minecraft/mc-mods/planeteer-dimensions)
+  - [Planeteer - Machines](https://www.curseforge.com/minecraft/mc-mods/planeteer-machines)
 
 # Credits #
 
-* Lego245
-* Paws of Aries
-* Mossy
-* TheRealM18
-* Iamruukie
-* TheCraftingBunny
+- Lego245
+- ZAppFireCZ
+- Former team: [TheRealM18 Studios](https://therealm18studios.com)
