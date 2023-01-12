@@ -1,26 +1,26 @@
 {
  "replace": false,
  "values": [
-        "beyond_planets_core:gold_block_raw_wall",
-        "beyond_planets_core:iron_block_raw_wall",
-        "beyond_planets_core:tin_block_raw_wall",
-        "beyond_planets_core:zinc_block_raw_wall",
-        "beyond_planets_core:uranium_block_raw_wall",
-        "beyond_planets_core:lead_block_raw_wall",
-        "beyond_planets_core:cobalt_block_raw_wall",
+        "planeteer_core:gold_block_raw_wall",
+        "planeteer_core:iron_block_raw_wall",
+        "planeteer_core:tin_block_raw_wall",
+        "planeteer_core:zinc_block_raw_wall",
+        "planeteer_core:uranium_block_raw_wall",
+        "planeteer_core:lead_block_raw_wall",
+        "planeteer_core:cobalt_block_raw_wall",
 
-        "beyond_planets_core:redstone_block_compressed_wall",
-        "beyond_planets_core:diamond_block_compressed_wall",
-        "beyond_planets_core:emerald_block_compressed_wall",
-        "beyond_planets_core:coal_block_compressed_wall",
-        "beyond_planets_core:copper_block_compressed_wall",
-        "beyond_planets_core:gold_block_compressed_wall",
-        "beyond_planets_core:iron_block_compressed_wall",
-        "beyond_planets_core:tin_block_compressed_wall",
-        "beyond_planets_core:zinc_block_compressed_wall",
-        "beyond_planets_core:uranium_block_compressed_wall",
-        "beyond_planets_core:lead_block_compressed_wall",
-        "beyond_planets_core:cobalt_block_compressed_wall"
+        "planeteer_core:redstone_block_compressed_wall",
+        "planeteer_core:diamond_block_compressed_wall",
+        "planeteer_core:emerald_block_compressed_wall",
+        "planeteer_core:coal_block_compressed_wall",
+        "planeteer_core:copper_block_compressed_wall",
+        "planeteer_core:gold_block_compressed_wall",
+        "planeteer_core:iron_block_compressed_wall",
+        "planeteer_core:tin_block_compressed_wall",
+        "planeteer_core:zinc_block_compressed_wall",
+        "planeteer_core:uranium_block_compressed_wall",
+        "planeteer_core:lead_block_compressed_wall",
+        "planeteer_core:cobalt_block_compressed_wall"
 
 
  ]

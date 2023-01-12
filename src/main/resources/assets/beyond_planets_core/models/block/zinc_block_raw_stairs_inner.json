@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "beyond_planets_core:blocks/block_raw/zinc_block_raw",
-    "top": "beyond_planets_core:blocks/block_raw/zinc_block_raw",
-    "side": "beyond_planets_core:blocks/block_raw/zinc_block_raw"
-  }
-}

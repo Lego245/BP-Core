@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "planeteer_core:blocks/block_raw/cobalt_block_raw",
+    "top": "planeteer_core:blocks/block_raw/cobalt_block_raw",
+    "side": "planeteer_core:blocks/block_raw/cobalt_block_raw"
+  }
+}

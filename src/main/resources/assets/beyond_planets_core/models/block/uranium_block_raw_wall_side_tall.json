@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_wall_side_tall",
-  "textures": {
-    "wall": "beyond_planets_core:blocks/block_raw/uranium_block_raw"
-  }
-}

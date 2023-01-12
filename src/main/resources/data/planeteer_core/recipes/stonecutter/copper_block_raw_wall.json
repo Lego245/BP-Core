@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:raw_copper_block"
+  },
+  "result": "planeteer_core:copper_block_raw_wall",
+  "count": 1
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "planeteer_core:block/mars_copper_ore"
+    }
+  }
+}

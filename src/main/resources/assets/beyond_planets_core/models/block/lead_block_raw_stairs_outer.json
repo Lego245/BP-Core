@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "beyond_planets_core:blocks/block_raw/lead_block_raw",
-    "top": "beyond_planets_core:blocks/block_raw/lead_block_raw",
-    "side": "beyond_planets_core:blocks/block_raw/lead_block_raw"
-  }
-}

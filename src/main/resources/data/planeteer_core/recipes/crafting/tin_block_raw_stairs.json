@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "planeteer_core:tin_block_raw"
+    }
+  },
+  "result": {
+    "item": "planeteer_core:tin_block_raw_stairs",
+    "count": 4
+  }
+}

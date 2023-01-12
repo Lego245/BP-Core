@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "planeteer_core:lead_block_raw"
+  },
+  "result": "planeteer_core:lead_block_raw_wall",
+  "count": 1
+}

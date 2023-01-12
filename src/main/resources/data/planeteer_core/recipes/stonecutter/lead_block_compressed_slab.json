@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "planeteer_core:lead_block_compressed"
+  },
+  "result": "planeteer_core:lead_block_compressed_slab",
+  "count": 2
+}

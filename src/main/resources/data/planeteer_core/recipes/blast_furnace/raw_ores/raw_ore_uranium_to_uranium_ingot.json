@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "planeteer_core:raw_ore_uranium"
+  },
+  "result": {
+    "item": "planeteer_core:ingot_uranium"
+  }
+}

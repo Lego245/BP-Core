@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "planeteer_core:tin_block_raw"
+  },
+  "result": "planeteer_core:tin_block_raw_slab",
+  "count": 2
+}

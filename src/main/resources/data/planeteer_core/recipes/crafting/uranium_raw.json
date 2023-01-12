@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uranium_ingot",
+  "ingredients": [
+    {
+      "item": "planeteer_core:uranium_block_raw"
+    }
+  ],
+  "result": {
+    "item": "planeteer_core:raw_ore_uranium",
+    "count": 9
+  }
+}

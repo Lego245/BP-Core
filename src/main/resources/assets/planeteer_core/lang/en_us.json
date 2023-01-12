@@ -1,0 +1,150 @@
+{
+  "block.planeteer_core.mars_copper_ore": "Mars Copper Ore",
+  "block.planeteer_core.mars_tin_ore": "Mars Tin Ore",
+  "block.planeteer_core.mars_zinc_ore": "Mars Zinc Ore",
+  "block.planeteer_core.mars_uranium_ore": "Mars Uranium Ore",
+  "block.planeteer_core.mars_lead_ore": "Mars Lead Ore",
+  "block.planeteer_core.mars_cobalt_ore": "Mars Cobalt Ore",
+  "block.planeteer_core.mars_coal_ore": "Mars Coal Ore",
+
+
+  "block.planeteer_core.venus_copper_ore": "Venus Copper Ore",
+  "block.planeteer_core.venus_tin_ore": "Venus Tin Ore",
+  "block.planeteer_core.venus_zinc_ore": "Venus Zinc Ore",
+  "block.planeteer_core.venus_uranium_ore": "Venus Uranium Ore",
+  "block.planeteer_core.venus_lead_ore": "Venus Lead Ore",
+  "block.planeteer_core.venus_cobalt_ore": "Venus Cobalt Ore",
+
+
+
+  "block.planeteer_core.moon_copper_ore": "Moon Copper Ore",
+  "block.planeteer_core.moon_tin_ore": "Moon Tin Ore",
+  "block.planeteer_core.moon_zinc_ore": "Moon Zinc Ore",
+  "block.planeteer_core.moon_uranium_ore": "Moon Uranium Ore",
+  "block.planeteer_core.moon_lead_ore": "Moon Lead Ore",
+  "block.planeteer_core.moon_cobalt_ore": "Moon Cobalt Ore",
+  "block.planeteer_core.moon_coal_ore": "Moon Coal Ore",
+
+
+
+  "block.planeteer_core.mercury_copper_ore": "Mercury Copper Ore",
+  "block.planeteer_core.mercury_tin_ore": "Mercury Tin Ore",
+  "block.planeteer_core.mercury_zinc_ore": "Mercury Zinc Ore",
+  "block.planeteer_core.mercury_uranium_ore": "Mercury Uranium Ore",
+  "block.planeteer_core.mercury_lead_ore": "Mercury Lead Ore",
+  "block.planeteer_core.mercury_cobalt_ore": "Mercury Cobalt Ore",
+  "block.planeteer_core.mercury_coal_ore": "Mercury Coal Ore",
+
+
+
+  "block.planeteer_core.glacio_tin_ore": "Glacio Tin Ore",
+  "block.planeteer_core.glacio_zinc_ore": "Glacio Zinc Ore",
+  "block.planeteer_core.glacio_uranium_ore": "Glacio Uranium Ore",
+  "block.planeteer_core.glacio_lead_ore": "Glacio Lead Ore",
+  "block.planeteer_core.glacio_cobalt_ore": "Glacio Cobalt Ore",
+
+
+  "block.planeteer_core.tin_block_raw": "Block Of Raw Tin",
+  "block.planeteer_core.zinc_block_raw": "Block Of Raw Zinc",
+  "block.planeteer_core.uranium_block_raw": "Block Of Raw Uranium",
+  "block.planeteer_core.lead_block_raw": "Block Of Raw Lead",
+  "block.planeteer_core.cobalt_block_raw": "Block Of Raw Cobalt",
+
+
+  "block.planeteer_core.copper_block_raw_wall": "Raw Copper Wall",
+  "block.planeteer_core.gold_block_raw_wall": "Raw Gold Wall",
+  "block.planeteer_core.iron_block_raw_wall": "Raw Iron Wall",
+  "block.planeteer_core.tin_block_raw_wall": "Raw Tin Wall",
+  "block.planeteer_core.zinc_block_raw_wall": "Raw Zinc Wall",
+  "block.planeteer_core.uranium_block_raw_wall": "Raw Uranium Wall",
+  "block.planeteer_core.lead_block_raw_wall": "Raw Lead Wall",
+  "block.planeteer_core.cobalt_block_raw_wall": "Raw Cobalt Wall",
+
+
+  "block.planeteer_core.copper_block_raw_slab": "Raw Copper Slab",
+  "block.planeteer_core.gold_block_raw_slab": "Raw Gold Slab",
+  "block.planeteer_core.iron_block_raw_slab": "Raw Iron Slab",
+  "block.planeteer_core.tin_block_raw_slab": " Raw Tin Slab",
+  "block.planeteer_core.zinc_block_raw_slab": "Raw Zinc Slab",
+  "block.planeteer_core.uranium_block_raw_slab": "Raw Uranium Slab",
+  "block.planeteer_core.lead_block_raw_slab": "Raw Lead Slab",
+  "block.planeteer_core.cobalt_block_raw_slab": "Raw Cobalt Slab",
+
+
+  "block.planeteer_core.copper_block_raw_stairs": "Raw Copper Stairs",
+  "block.planeteer_core.gold_block_raw_stairs": "Raw Gold Stairs",
+  "block.planeteer_core.iron_block_raw_stairs": "Raw Iron Stairs",
+  "block.planeteer_core.tin_block_raw_stairs": "Raw Tin Stairs",
+  "block.planeteer_core.zinc_block_raw_stairs": "Raw Zinc Stairs",
+  "block.planeteer_core.uranium_block_raw_stairs": "Raw Uranium Stairs",
+  "block.planeteer_core.lead_block_raw_stairs": "Raw Lead Stairs",
+  "block.planeteer_core.cobalt_block_raw_stairs": "Raw Cobalt Stairs",
+
+
+  "block.planeteer_core.tin_block_compressed": "Block Of Tin",
+  "block.planeteer_core.zinc_block_compressed": "Block Of Zinc",
+  "block.planeteer_core.uranium_block_compressed": "Block Of Uranium",
+  "block.planeteer_core.lead_block_compressed": "Block Of Lead",
+  "block.planeteer_core.cobalt_block_compressed": "Block Of Cobalt",
+
+
+  "block.planeteer_core.redstone_block_compressed_wall": "Redstone Wall",
+  "block.planeteer_core.diamond_block_compressed_wall": "Diamond Wall",
+  "block.planeteer_core.emerald_block_compressed_wall": "Emerald Wall",
+  "block.planeteer_core.coal_block_compressed_wall": "Coal Wall",
+  "block.planeteer_core.copper_block_compressed_wall": "Copper Wall",
+  "block.planeteer_core.gold_block_compressed_wall": "Gold Wall",
+  "block.planeteer_core.iron_block_compressed_wall": "Iron Wall",
+  "block.planeteer_core.lapis_block_compressed_wall": "Lapis Wall",
+  "block.planeteer_core.tin_block_compressed_wall": "Tin Wall",
+  "block.planeteer_core.zinc_block_compressed_wall": "Zinc Wall",
+  "block.planeteer_core.uranium_block_compressed_wall": "Uranium Wall",
+  "block.planeteer_core.lead_block_compressed_wall": "Lead Wall",
+  "block.planeteer_core.cobalt_block_compressed_wall": "Cobalt Wall",
+
+
+  "block.planeteer_core.redstone_block_compressed_slab": "Redstone Slab",
+  "block.planeteer_core.diamond_block_compressed_slab": "Diamond Slab",
+  "block.planeteer_core.emerald_block_compressed_slab": "Emerald Slab",
+  "block.planeteer_core.coal_block_compressed_slab": "Coal Slab",
+  "block.planeteer_core.lapis_block_compressed_slab": "Lapis Slab",
+  "block.planeteer_core.gold_block_compressed_slab": "Gold Slab",
+  "block.planeteer_core.iron_block_compressed_slab": "Iron Slab",
+  "block.planeteer_core.tin_block_compressed_slab": "Tin Slab",
+  "block.planeteer_core.zinc_block_compressed_slab": "Zinc Slab",
+  "block.planeteer_core.uranium_block_compressed_slab": "Uranium Slab",
+  "block.planeteer_core.lead_block_compressed_slab": "Lead Slab",
+  "block.planeteer_core.cobalt_block_compressed_slab": "Cobalt Slab",
+
+
+  "block.planeteer_core.redstone_block_compressed_stairs": "Redstone Stairs",
+  "block.planeteer_core.diamond_block_compressed_stairs": "Diamond Stairs",
+  "block.planeteer_core.emerald_block_compressed_stairs": "Emerald Stairs",
+  "block.planeteer_core.coal_block_compressed_stairs": "Coal Stairs",
+  "block.planeteer_core.lapis_block_compressed_stairs": "Lapis Stairs",
+  "block.planeteer_core.gold_block_compressed_stairs": "Gold Stairs",
+  "block.planeteer_core.iron_block_compressed_stairs": "Iron Stairs",
+  "block.planeteer_core.tin_block_compressed_stairs": "Tin Stairs",
+  "block.planeteer_core.zinc_block_compressed_stairs": "Zinc Stairs",
+  "block.planeteer_core.uranium_block_compressed_stairs": "Uranium Stairs",
+  "block.planeteer_core.lead_block_compressed_stairs": "Lead Stairs",
+  "block.planeteer_core.cobalt_block_compressed_stairs": "Cobalt Stairs",
+
+
+  "item.planeteer_core.raw_ore_tin": " Raw Tin Ore",
+  "item.planeteer_core.raw_ore_zinc": "Raw Zinc Ore",
+  "item.planeteer_core.raw_ore_uranium": "Raw Uranium Ore",
+  "item.planeteer_core.raw_ore_lead": "Raw Lead Ore",
+  "item.planeteer_core.raw_ore_cobalt": "Raw Cobalt Ore",
+
+
+  "item.planeteer_core.ingot_tin": "Tin Ingot",
+  "item.planeteer_core.ingot_zinc": "Zinc Ingot",
+  "item.planeteer_core.ingot_uranium": "Uranium Ingot",
+  "item.planeteer_core.ingot_lead": "Lead Ingot",
+  "item.planeteer_core.ingot_cobalt": "Cobalt Ingot",
+
+  "itemGroup.planeteer_core.tab_ores": "BPC: Ore",
+  "itemGroup.planeteer_core.tab_items": "BPC: Items",
+  "itemGroup.planeteer_core.tab_building_blocks": "BPC: Decoration Blocks"
+}

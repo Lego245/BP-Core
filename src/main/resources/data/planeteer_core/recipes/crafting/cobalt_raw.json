@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cobalt_ingot",
+  "ingredients": [
+    {
+      "item": "planeteer_core:cobalt_block_raw"
+    }
+  ],
+  "result": {
+    "item": "planeteer_core:raw_ore_cobalt",
+    "count": 9
+  }
+}

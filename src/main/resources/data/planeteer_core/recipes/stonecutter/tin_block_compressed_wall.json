@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "planeteer_core:tin_block_compressed"
+  },
+  "result": "planeteer_core:tin_block_compressed_wall",
+  "count": 1
+}

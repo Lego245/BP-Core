@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "planeteer_core:blocks/block_compressed/zinc_block_compressed",
+    "top": "planeteer_core:blocks/block_compressed/zinc_block_compressed",
+    "side": "planeteer_core:blocks/block_compressed/zinc_block_compressed"
+  }
+}

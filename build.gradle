@@ -15,8 +15,8 @@ apply plugin: 'net.minecraftforge.gradle'
 
 
 version = "${project.mc_version}-${project.mod_version}"
-group = 'com.therealm18studios.beyondplanetscore'
-archivesBaseName = 'Beyond-Planets-Core'
+group = 'com.7appdev.planeteercore'
+archivesBaseName = 'Planeteer-Core'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
@@ -30,7 +30,7 @@ minecraft {
             property 'mixin.env.disableRefMap', 'true'
             property 'forge.logging.markers', 'REGISTRIES'
             property 'forge.logging.console.level', 'debug'
-            property 'forge.enabledGameTestNamespaces', 'beyondplanetscore'
+            property 'forge.enabledGameTestNamespaces', 'planeteercore'
 
             mods {
                 beyondplanets {
@@ -44,10 +44,10 @@ minecraft {
             property 'mixin.env.disableRefMap', 'true'
             property 'forge.logging.markers', 'REGISTRIES'
             property 'forge.logging.console.level', 'debug'
-            property 'forge.enabledGameTestNamespaces', 'beyondplanetscore'
+            property 'forge.enabledGameTestNamespaces', 'planeteercore'
 
             mods {
-                beyondplanets {
+                planeteer {
                     source sourceSets.main
                 }
             }
@@ -71,12 +71,12 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "beyondplanetscore",
-                "Specification-Vendor"    : "beyondplanetscore",
+                "Specification-Title"     : "planeteercore",
+                "Specification-Vendor"    : "planeteercore",
                 "Specification-Version"   : "1",
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
-                "Implementation-Vendor"   : "beyondplanetscore",
+                "Implementation-Vendor"   : "planeteercore",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }

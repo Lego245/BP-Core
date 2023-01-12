@@ -3,30 +3,30 @@ loaderVersion="[40,)"
 license="All rights reserved"
 
 [[mods]]
-modId="beyond_planets_core"
+modId="planeteer_core"
 version="${file.jarVersion}"
-displayName="Beyond Planets - Core"
-credits="The Realm18 Studios"
-authors="The Realm18 Studios"
+displayName="Planeteer - Core"
+credits="ZApp Dev team"
+authors="ZApp Dev team"
 description='''
-This mod for the core of Beyond Planets.
+This mod for the core of Planeteer.
 '''
 
-[[dependencies.beyond_planets_core]]
+[[dependencies.planeteer_core]]
     modId="forge"
     mandatory=true
     versionRange="[40.1.51,)"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.beyond_planets_core]]
+[[dependencies.planeteer_core]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.18.2,)"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.beyond_planets_core]]
+[[dependencies.planeteer_core]]
     modId="beyond_earth"
     mandatory=false
     versionRange="[6.2,)"

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:raw_copper_block"
+    }
+  },
+  "result": {
+    "item": "planeteer_core:copper_block_raw_stairs",
+    "count": 4
+  }
+}
