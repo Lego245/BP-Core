@@ -3,7 +3,7 @@
   "group": "uranium_ingot",
   "ingredients": [
     {
-      "item": "planeteer_core:uranium_block_compressed"
+      "item": "planeteer_core:uranium_block"
     }
   ],
   "result": {

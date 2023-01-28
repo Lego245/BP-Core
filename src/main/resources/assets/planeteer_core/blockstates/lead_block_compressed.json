@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "planeteer_core:block/lead_block_compressed"
+      "model": "planeteer_core:block/lead_block"
     }
   }
 }

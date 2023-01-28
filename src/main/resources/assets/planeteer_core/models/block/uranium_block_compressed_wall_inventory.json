@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/wall_inventory",
-  "textures": {
-    "wall": "planeteer_core:blocks/block_compressed/uranium_block_compressed"
-  }
-}

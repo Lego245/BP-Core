@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "planeteer_core:blocks/block_storage/uranium_block",
+    "top": "planeteer_core:blocks/block_storage/uranium_block",
+    "side": "planeteer_core:blocks/block_storage/uranium_block"
+  }
+}

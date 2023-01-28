@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "planeteer_core:blocks/block_compressed/zinc_block_compressed"
-  }
-}

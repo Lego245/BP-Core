@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:raw_gold_block"
-  },
-  "result": "planeteer_core:gold_block_raw_slab",
-  "count": 2
-}

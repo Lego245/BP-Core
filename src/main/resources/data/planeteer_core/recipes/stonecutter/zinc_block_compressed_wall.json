@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "planeteer_core:zinc_block_compressed"
+    "item": "planeteer_core:zinc_block"
   },
-  "result": "planeteer_core:zinc_block_compressed_wall",
+  "result": "planeteer_core:zinc_block_wall",
   "count": 1
 }

@@ -1,3 +1,3 @@
 {
-  "parent": "planeteer_core:block/zinc_block_compressed_slab"
+  "parent": "planeteer_core:block/zinc_block_slab"
 }

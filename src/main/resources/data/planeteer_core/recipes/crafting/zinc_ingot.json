@@ -3,7 +3,7 @@
   "group": "zinc_ingot",
   "ingredients": [
     {
-      "item": "planeteer_core:zinc_block_compressed"
+      "item": "planeteer_core:zinc_block"
     }
   ],
   "result": {

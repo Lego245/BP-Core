@@ -3,7 +3,7 @@
   "group": "lead_ingot",
   "ingredients": [
     {
-      "item": "planeteer_core:lead_block_compressed"
+      "item": "planeteer_core:lead_block"
     }
   ],
   "result": {

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "planeteer_core:blocks/block_compressed/tin_block_compressed",
-    "top": "planeteer_core:blocks/block_compressed/tin_block_compressed",
-    "side": "planeteer_core:blocks/block_compressed/tin_block_compressed"
-  }
-}

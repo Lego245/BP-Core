@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "planeteer_core:block/uranium_block_compressed_slab"
+      "model": "planeteer_core:block/uranium_block_slab"
     },
     "type=double": {
-      "model": "planeteer_core:block/uranium_block_compressed"
+      "model": "planeteer_core:block/uranium_block"
     },
     "type=top": {
-      "model": "planeteer_core:block/uranium_block_compressed_slab_top"
+      "model": "planeteer_core:block/uranium_block_slab_top"
     }
   }
 }

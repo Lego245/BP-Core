@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "planeteer_core:tin_block_compressed_stairs"
+          "name": "planeteer_core:tin_block_stairs"
         }
       ],
       "conditions": [

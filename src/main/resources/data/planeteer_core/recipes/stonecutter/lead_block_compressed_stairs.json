@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "planeteer_core:lead_block_compressed"
+    "item": "planeteer_core:lead_block"
   },
-  "result": "planeteer_core:lead_block_compressed_stairs",
+  "result": "planeteer_core:lead_block_stairs",
   "count": 1
 }

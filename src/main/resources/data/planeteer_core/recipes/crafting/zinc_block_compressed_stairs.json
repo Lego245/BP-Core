@@ -7,11 +7,11 @@
   ],
   "key": {
     "#": {
-      "item": "planeteer_core:zinc_block_compressed"
+      "item": "planeteer_core:zinc_block"
     }
   },
   "result": {
-    "item": "planeteer_core:zinc_block_compressed_stairs",
+    "item": "planeteer_core:zinc_block_stairs",
     "count": 4
   }
 }

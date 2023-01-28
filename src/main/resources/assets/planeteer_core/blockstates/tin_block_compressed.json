@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "planeteer_core:block/tin_block_compressed"
+      "model": "planeteer_core:block/tin_block"
     }
   }
 }

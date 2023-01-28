@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "planeteer_core:cobalt_block_compressed"
+          "name": "planeteer_core:cobalt_block"
         }
       ],
       "conditions": [

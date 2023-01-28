@@ -41,26 +41,26 @@
     "planeteer_core:tin_block_raw_stairs",
     "planeteer_core:zinc_block_raw_stairs",
 
-    "planeteer_core:tin_block_compressed",
-    "planeteer_core:zinc_block_compressed",
+    "planeteer_core:tin_block",
+    "planeteer_core:zinc_block",
 
-    "planeteer_core:redstone_block_compressed_wall",
-    "planeteer_core:coal_block_compressed_wall",
-    "planeteer_core:copper_block_compressed_wall",
-    "planeteer_core:iron_block_compressed_wall",
-    "planeteer_core:tin_block_compressed_wall",
-    "planeteer_core:zinc_block_compressed_wall",
+    "planeteer_core:redstone_block_wall",
+    "planeteer_core:coal_block_wall",
+    "planeteer_core:copper_block_wall",
+    "planeteer_core:iron_block_wall",
+    "planeteer_core:tin_block_wall",
+    "planeteer_core:zinc_block_wall",
 
-    "planeteer_core:redstone_block_compressed_slab",
-    "planeteer_core:coal_block_compressed_slab",
-    "planeteer_core:iron_block_compressed_slab",
-    "planeteer_core:tin_block_compressed_slab",
-    "planeteer_core:zinc_block_compressed_slab",
+    "planeteer_core:redstone_block_slab",
+    "planeteer_core:coal_block_slab",
+    "planeteer_core:iron_block_slab",
+    "planeteer_core:tin_block_slab",
+    "planeteer_core:zinc_block_slab",
 
-    "planeteer_core:redstone_block_compressed_stairs",
-    "planeteer_core:coal_block_compressed_stairs",
-    "planeteer_core:iron_block_compressed_stairs",
-    "planeteer_core:tin_block_compressed_stairs",
-    "planeteer_core:zinc_block_compressed_stairs"
+    "planeteer_core:redstone_block_stairs",
+    "planeteer_core:coal_block_stairs",
+    "planeteer_core:iron_block_stairs",
+    "planeteer_core:tin_block_stairs",
+    "planeteer_core:zinc_block_stairs"
   ]
 }

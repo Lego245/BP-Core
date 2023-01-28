@@ -3,7 +3,7 @@
   "group": "tin_ingot",
   "ingredients": [
     {
-      "item": "planeteer_core:tin_block_compressed"
+      "item": "planeteer_core:tin_block"
     }
   ],
   "result": {

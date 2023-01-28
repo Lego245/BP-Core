@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "planeteer_core:lead_block_compressed"
+      "item": "planeteer_core:lead_block"
     }
   },
   "result": {
-    "item": "planeteer_core:lead_block_compressed_slab",
+    "item": "planeteer_core:lead_block_slab",
     "count": 6
   }
 }
